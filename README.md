@@ -10,10 +10,11 @@ to user movements in real-world office environments in the time-series data-set.
 ## Google Colab
 1. Upload the notebook file.
 2. Create folder named dataset.
-3. Upload all the files from the dataset folder to the project
-4. Run all cells
+3. Upload all the files from the dataset folder to the project.
+4. Run all cells.
 
 ## Jupyter
-1. Start the Jupyter environment and open the noebook
-2. Install all the dependencies, such as TensorFlow, Keras
-4. Run all cells
+1. Start the Jupyter environment and open the notebook.
+2. Install all the dependencies, such as TensorFlow, Keras etc.
+3. Make sure the folder is in the same path with the notebook.
+4. Run all cells.
